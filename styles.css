@@ -1,0 +1,39 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+     font-family: verdana;
+  font-size: 150%;
+  text-align: center;
+  background-color: chartreuse;
+  }
+p {
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+}
+.yellow {
+    border: 2px solid red;
+  border-radius: 10px;
+  padding: 5px;
+  max-width: 100%;
+  height: auto;
+}
+ul {
+    list-style-type: square;
+}
+.container {
+    display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        border: 5px solid red;
+        margin: 25px;
+      }
+h3 {
+  color: orangered;
+     font-family: 'Times New Roman', Times, serif;
+  
+  text-align: left;
+  background-color: darksalmon;
+}
